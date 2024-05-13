@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Joaquin Petit
+- 👀 I’m interested in programming, dogs, soccer and gym
+- 🌱 I’m currently learning front-end languages and PostgreSQL 
+- 💞️ I’m looking to collaborate on dont know, talk to me if you want
+- 📫 How to reach me www.linkedin.com/in/joaquin-rodriguez-petit or joaquinrodriguezpetit@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: idk, maybe dont have
