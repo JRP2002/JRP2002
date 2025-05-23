@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joaquin Petit
 - 👀 I’m interested in programming, dogs, soccer and gym
-- 🌱 I’m currently learning front-end languages and PostgreSQL (to complete my stack)
-- 💞️ I’m looking to collaborate on dont know, talk to me if you want
+- 🌱 I’m currently learning front-end languages and frameworks as Vue and Nuxt
 - 📫 How to reach me www.linkedin.com/in/joaquin-rodriguez-petit or joaquinrodriguezpetit@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: idk, maybe dont have
+- ⚡ Fun fact: I always open Stack Overflow with love... and a little desperation.
